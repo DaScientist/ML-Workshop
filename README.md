@@ -21,7 +21,7 @@ Content of workshops on Machine Learning conducted by TechNeurons
     * Matplotlib
     * TensorFlow
 
-* [Day 2 - **Data Preprocessing:**](https://github.com/MozNeurons/ML-Workshop/tree/Day-2) :
+* [Day 2 - **Data Preprocessing**](https://github.com/MozNeurons/ML-Workshop/tree/Day-2) :
   * Data Preprocessing with:
     * Scikit-learn
     * Pandas
